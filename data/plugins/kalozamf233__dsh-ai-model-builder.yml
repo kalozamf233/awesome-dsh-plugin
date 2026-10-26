@@ -1,0 +1,6 @@
+url: https://github.com/kalozamf233/dsh-ai-model-builder
+name: kalozamf233/dsh-ai-model-builder
+category: tools
+description:
+  en: Configure a multilayer neural network (learning rate, neurons, layers, optional dataset) in the sidebar, generate a PyTorch architecture, and start training in a new session automatically.
+  zh: 在左侧栏配置神经网络（学习率、神经元数量、层数、可选数据集），一键生成 PyTorch 模型架构，并在新会话中自动启动训练。
